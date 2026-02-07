@@ -15,7 +15,7 @@ A functional frontend clone of Myntra built using **HTML, CSS, and JavaScript**.
 - JavaScript (DOM Manipulation)
 
 ## 📸 Screenshots
-(Add screenshots here)
+![Home page](https://github.com/ritesh01-hub/myntra-clone/blob/7349d79bd7975e5b99211581063906e3f7284a56/Screenshot%202026-02-07%20130148.png)
 
 ## 🧠 What I Learned
 - DOM manipulation

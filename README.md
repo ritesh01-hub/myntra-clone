@@ -24,7 +24,7 @@ A functional frontend clone of Myntra built using **HTML, CSS, and JavaScript**.
 - Basic e-commerce flow
 
 ## 🔗 Live Demo
-(Add GitHub Pages link here)
+(http://127.0.0.1:5500/index.html)
 
 ## 📌 Future Improvements
 - User authentication
